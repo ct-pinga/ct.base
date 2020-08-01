@@ -17,6 +17,7 @@
 09. Adicione sua chave SSH no seu GitHub (https://docs.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account)
 
 ## Primeiros passos
-10. Faça a sala WelCome do THM (https://tryhackme.com/room/welcome)
-11. Faça a sala LearnLinux no THM (https://tryhackme.com/room/zthlinux)
-12. Faça o treinamento em Kali (https://kali.training/lessons/introduction/)
+10. Faça curso de GIT (https://www.cursou.com.br/informatica/git/)
+11. Faça a sala WelCome do THM (https://tryhackme.com/room/welcome)
+12. Faça a sala LearnLinux no THM (https://tryhackme.com/room/zthlinux)
+13. Faça o treinamento em Kali (https://kali.training/lessons/introduction/)
