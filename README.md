@@ -3,7 +3,7 @@
 # Tutorial
 ## Instalações
 01. Baixar Kali (https://www.kali.org/downloads/)
-02. Instalar Kali (Recomenda-se maquina virtual)
+02. Instalar Kali (Recomenda-se maquina virtual, se estiver em VM desative o antivirus da maquina hospedeira)
 03. Instale a OpenVPN no seu Kali (https://tryhackme.com/connect?o=vpn)
 
 ## Contas
