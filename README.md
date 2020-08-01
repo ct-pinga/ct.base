@@ -19,6 +19,6 @@
 ## Primeiros passos
 10. Ler o tutorial de MarkDown (https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 11. Faça curso de GIT (https://www.cursou.com.br/informatica/git/)
-12. Faça a sala WelCome do THM (https://tryhackme.com/room/welcome)
+12. Faça a sala Welcome do THM (https://tryhackme.com/room/welcome)
 13. Faça a sala LearnLinux no THM (https://tryhackme.com/room/zthlinux)
 14. Faça o treinamento em Kali (https://kali.training/lessons/introduction/)
