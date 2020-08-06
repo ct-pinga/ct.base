@@ -1,4 +1,3 @@
-# ct.base
 
 # Tutorial
 ## Instalações
