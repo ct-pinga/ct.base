@@ -1,15 +1,17 @@
+# ct.base
 
 # Tutorial
 ## Instalações
 01. Baixar Kali (https://www.kali.org/downloads/)
 02. Instalar Kali (Recomenda-se maquina virtual, se estiver em VM desative o antivirus da maquina hospedeira)
-03. Instale a OpenVPN no seu Kali (https://tryhackme.com/connect?o=vpn)
 
 ## Contas
-04. Criar um email no ProtonMail (https://protonmail.com/signup)
-05. Criar conta no TryHackMe (https://tryhackme.com/signup)
-06. Criar conta no GitHub (https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
-07. Criar uma conta no Kali Training (https://kali.training/register/)
+03. Criar um email no ProtonMail (https://protonmail.com/signup)
+04. Criar conta no TryHackMe (https://tryhackme.com/signup)
+05. Criar conta no GitHub (https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+06. Criar uma conta no Kali Training (https://kali.training/register/)
+
+07. Instale a OpenVPN no seu Kali (https://tryhackme.com/connect?o=vpn)
 
 ## Configurações
 08. Gerar a SSH no seu Kali (https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
